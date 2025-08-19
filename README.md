@@ -1,0 +1,1 @@
+Each folder contains the lab contents presented by STMicroelectronics , the design in verilog and tb testing it , Also a PDF showing my work with running synthesis and impelemntation with reporting timing delays and utilization report.
